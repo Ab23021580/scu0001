@@ -1,0 +1,7 @@
+{
+  "name": "The Culinary Pulse - NTU",
+  "description": "A high-energy food delivery app for the National Taiwan University campus, featuring editorial design and real-time campus delivery tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
